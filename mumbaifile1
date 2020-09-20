@@ -1,3 +1,6 @@
 Test code for mumbai file 
 Hi Ashish how r u?
 i am fime thank u ...
+def add:
+  print("addition of a and b is ", a+b)
+this is the way u can write methods in Python
