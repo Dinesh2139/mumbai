@@ -4,3 +4,8 @@ i am fime thank u ...
 def add:
   print("addition of a and b is ", a+b)
 this is the way u can write methods in Python
+for i in range(1,11):
+  for j in range (1,11):
+     print(str(i*j).rjust(4),end(""))
+  print("")
+this is the code to print table from 1 to 10 through python code
